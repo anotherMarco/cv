@@ -3,19 +3,19 @@
 ## Persönliche Daten
 
 - **Name:** Marco Ulrich
-- **Adresse:** ...
-- **Telefon:** ...
+- **Adresse:** -----
+- **Telefon:** tel:+49 123456
 - **E-Mail:** [marco@marco-ulrich.de](mailto:marco@marco-ulrich.de)
 
 ## Berufserfahrung
 
 - **Software-Entwickler**
-    - Information Technologies Sorge, Musterstadt
+    - Information Technologies Sorge, Obertshausen
     - April 2023 - heute
     - Entwicklung von ERP-Lösungen mit C# und Win Forms.
 
 - **Software-Entwickler**
-    - Main-Method GmbH, Musterstadt
+    - Main-Method GmbH, Frankfurt am Main
     - Februar 2022 - März 2023
     - Entwicklung von Softwarelösungen für Kunden aus verschiedenen Branchen unter Verwendung von Java, Spring Boot und React.
 
