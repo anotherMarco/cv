@@ -9,7 +9,7 @@
 
 ## Berufserfahrung
 
-- **Software-Entwickler für ERP-Lösungen**
+- **Software-Entwickler**
     - Information Technologies Sorge, Musterstadt
     - April 2023 - heute
     - Entwicklung von ERP-Lösungen mit C# und Win Forms.
@@ -44,6 +44,35 @@
 
 - **[Oracle Certified Associate, Java SE 8 Programmer](https://www.credly.com/badges/f105e63b-16bd-4940-b438-912caf2fe6c9)**
     - Ausstellungsdatum: Januar 2021
+
+## Projekte
+- **Trainingsplanungs-Anwendung** (seit April 2023)
+  - Beschreibung: Entwicklung einer App zur Verwaltung von Trainingsplänen, einschließlich der Möglichkeit, Trainingspläne zu verwalten, sich mit anderen Benutzern zu Trainings zu verabreden, Statistiken zu erfassen und diese einzusehen.
+  - Verwendete Technologien: Java, Spring Boot, React, Docker, GitHub Actions, PostgreSQL,REST
+  - Meine Rolle: Softwareentwickler.
+  - Herausforderungen: Implementierung von Benutzer-Authentifizierung und -Autorisierung, Integration von Backend und Frontend, Verarbeitung von Nutzerdaten und Trainingsplänen
+  - Links zu GitHub-Repositories: [Backend](https://github.com/anotherMarco/TrainMate)
+- **Anwendung für die Anmeldung auf Events eines Pokerclubs** (Juli 2022 - Heute)
+  - Beschreibung: Entwicklung einer Fullstack-Anwendung für die Anmeldung zu Events eines Pokerclubs. Administratoren können Events erstellen und verwalten, während sich Benutzer für diese anmelden können.
+  - Verwendete Technologien: Java, Spring Boot, React, Typescript, Github Actions, Docker, REST.
+  - Meine Rolle: Hauptentwickler und Projektbetreuer.
+  - Herausforderungen: Integration von Frontend und Backend, kontinuierliche Wartung und Verbesserung der Anwendung.
+  - Links zu GitHub-Repositories: [Frontend](https://github.com/anotherMarco/tournament-planer-client), [Backend](https://github.com/anotherMarco/tournament-planer-server)
+- **REST-API für Vermögensberatung** (Juni 2022 - März 2023)
+  - Beschreibung: Entwicklung eines Microservices mit Spring Boot zur Verwaltung von Beratungsgesprächen in der Vermögensberatung.
+  - Verwendete Technologien: Java, Spring Boot, REST, PostgreSQL.
+  - Meine Rolle: Entwickler.
+  - Herausforderungen: Implementierung einer sauberen Architektur und Testabdeckung, Integration mit bestehendem Backend-System.
+- **Dashboard für Produktionsmonitoring eines Automobilherstellers** (Februar - Mai 2023)
+  - Beschreibung: Entwicklung einer Webanwendung mit React für das Monitoring der Produktionsprozesse
+  - Verwendete Technologien: React, Redux, Node.js, REST.
+  - Meine Rolle: Hauptentwickler, Unterstützung des Backend-Teams bei der Implementierung der REST-Schnittstellen mit .NET und C#.
+  - Herausforderungen: Integration mit verschiedenen Datenquellen und Datenformaten, ansprechende Visualisierung der Daten.
+- **Conway's Game of Life-Konsolenanwendung** (2020)
+  - Beschreibung: Entwicklung einer Konsolenanwendung in Java, die eine Implementierung des bekannten Conway's Game of Life bietet.
+  - Verwendete Technologien: Java.
+  - Meine Rolle: Entwickler.
+  - Herausforderungen: Implementierung der Spiellogik von Conway's Game of Life, Gestaltung der Konsolenoberfläche, Umgang mit der Konsoleingabe und -ausgabe.
 
 ## Kenntnisse und Fähigkeiten
 
