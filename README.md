@@ -10,11 +10,6 @@
 ## Berufserfahrung
 
 - **Software-Entwickler**
-    - Information Technologies Sorge, Obertshausen
-    - April 2023 - heute
-    - Entwicklung von ERP-Lösungen mit C# und Win Forms.
-
-- **Software-Entwickler**
     - Main-Method GmbH, Frankfurt am Main
     - Februar 2022 - März 2023
     - Entwicklung von Softwarelösungen für Kunden aus verschiedenen Branchen unter Verwendung von Java, Spring Boot und React.
@@ -63,7 +58,7 @@
   - Verwendete Technologien: Java, Spring Boot, REST, PostgreSQL.
   - Meine Rolle: Entwickler.
   - Herausforderungen: Implementierung einer sauberen Architektur und Testabdeckung, Integration mit bestehendem Backend-System.
-- **Dashboard für Produktionsmonitoring eines Automobilherstellers** (Februar - Mai 2023)
+- **Dashboard für Produktionsmonitoring eines Automobilherstellers** (Februar 2022 - Mai 2022)
   - Beschreibung: Entwicklung einer Webanwendung mit React für das Monitoring der Produktionsprozesse
   - Verwendete Technologien: React, Redux, Node.js, REST.
   - Meine Rolle: Hauptentwickler, Unterstützung des Backend-Teams bei der Implementierung der REST-Schnittstellen mit .NET und C#.
